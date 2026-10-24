@@ -9,7 +9,7 @@ Java・PHP・生成AIを中心に学習しながら、身近な疑問や制作�
 
 ## 学習していること
 
-- **Java**：Java Silver 17取得。Java Goldに向けて学習中
+- **Java**：Java Silver 11取得。Java Goldに向けて学習中
 - **Web開発**：PHP、JavaScript、Spring Boot
 - **生成AI**：OllamaやRAGを使ったシステムの仕組みと設計
 
