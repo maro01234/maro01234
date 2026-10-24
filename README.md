@@ -5,6 +5,8 @@ Java・PHP・生成AIを中心に学習しながら、身近な疑問や制作�
 
 **[個人制作ポートフォリオ「Code & Sound」を見る ↗](https://hiroshi-ando-creative-lab.machinehead7777777.chatgpt.site)**
 
+ポートフォリオでは、楽曲 **「Sytytä haava tuleen」** をBGMとして試聴できます。画面右下の **▶** で再生・一時停止、**♫** で音量調整ができます。自動再生はせず、初期音量は20%、繰り返し再生に対応しています。
+
 ## 学習していること
 
 - **Java**：Java Silver 17取得。Java Goldに向けて学習中
