@@ -25,6 +25,21 @@ Java・PHP・生成AIを中心に学習しながら、身近な疑問や制作�
 
 [ビル比較教材を試す](https://hiroshi-ando-creative-lab.machinehead7777777.chatgpt.site/#works)
 
+### Javaの落とし穴を比較する「Java Bug Lab」
+
+問題コードと修正版を並べ、値や実行順序を操作して確かめる4つの教材です。Javaの仕組みを説明するJavaScriptシミュレーターとして制作しています。
+
+| 題材 | 操作・比較できること |
+| --- | --- |
+| HashMapのキー変更 | 登録後のキー変更による検索失敗と、不変キーでの再登録 |
+| スレッド競合 | count++の実行順序と、AtomicIntegerによる加算 |
+| ArrayListのループ中削除 | 前方向・拡張forと、逆方向・Iterator.removeの比較 |
+| Integer比較 | 127・128やキャッシュ設定による==の違いと、値の比較 |
+
+[Java Bug Labを試す](https://hiroshi-ando-creative-lab.machinehead7777777.chatgpt.site/java-lab.html)
+
+各教材に模型の前提とJava公式APIへのリンクを記載しています。コード例はJava 17以降を想定しています。
+
 ### 音楽PVの構成を考える「PV Sequence」
 
 画像の順序と表示秒数を編集し、ffmpeg用の連結リストとコマンドを書き出すツールです。
